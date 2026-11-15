@@ -34,6 +34,7 @@ build() {
   <meta name="robots" content="noindex, nofollow">
 $HEAD
   <link rel="alternate" hreflang="$olang" href="${oprefix}$f">
+  <script data-goatcounter="https://olegi808.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </head>
 <body>
 <a class="skip-link" href="#main">$skip</a>
